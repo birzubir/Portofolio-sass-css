@@ -62,7 +62,9 @@ body {
   border-bottom: 10px;
 }
 .text-header p {
-  color: #1100ff;
+  color: #d986e9;
+  font-size: xx-large;
+  font: bold;
   font-size: 30px;
   margin-bottom: 50px;
 }
