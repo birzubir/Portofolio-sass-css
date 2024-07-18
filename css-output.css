@@ -62,10 +62,8 @@ body {
   border-bottom: 10px;
 }
 .text-header p {
-  color: #d986e9;
-  font-size: xx-large;
-  font: bold;
-  font-size: 30px;
+  color: #00fa9a;
+  font-size: 20px;
   margin-bottom: 50px;
 }
 
@@ -85,9 +83,7 @@ body {
   margin-bottom: 10px;
 }
 
-.button-basic,
-.button-secondary,
-.button-primary {
+.button-basic, .button-secondary, .button-primary {
   border: none;
   padding: 15px 15px;
   text-align: center;
@@ -170,8 +166,7 @@ body {
   background-color: #e74c3c;
 }
 
-.image-style,
-.product-body .product-item img {
+.image-style, .product-body .product-item img {
   border-radius: 25px;
   padding: 10px;
   display: block;
